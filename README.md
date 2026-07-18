@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi, I’m Anjali  Kumari<br>A full-stack developer who builds real-world products <br>with clean UI and solid backends. <br>I work with React Native, Go, and PostgreSQL, <br>and recently built SheSafe, a women’s personal safety app <br>with live maps, SOS alerts, and real-time journey sharing.<br>I love building things that are not just functional, <br>but meaningful — products people can trust <br>when it matters most.
+Hi, I’m Anjali  Kumari<br>
+A full-stack developer who builds real-world products <br>
+with clean UI and solid backends. <br>
+I work with React Native, Go, and PostgreSQL, <br>
+and recently built SheSafe, a women’s personal safety app <br>
+with live maps, SOS alerts, and real-time journey sharing.<br>
+I love building things that are not just functional, <br>
+but meaningful — products people can trust <br>when it matters most.
 
 
 ## 🌐 Socials:
